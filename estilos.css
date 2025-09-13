@@ -1,0 +1,67 @@
+
+html, body{
+    font-family: Arial, sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.portada{
+    background-color: linear-gradient(to bottom, red, white);
+}
+
+.encabezado #logo{
+    background-color: red;
+    padding:0%;
+    margin: 0%;
+}
+
+
+
+.portada img{
+    max-width: auto;
+    height: 500px;
+    padding: 0%;
+    border-radius: 50px;
+    display: block;
+}
+
+.portada h1,h3{
+    text-align: center;
+}
+
+.portada h3{
+    text-align: center;
+    border-radius: 50px;
+    background-color: red;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 750px;
+    margin-left: 750px;
+    
+}
+
+.Destacados {
+    display: flex;
+    margin: 100px;
+    border-radius: 50px;
+}
+
+section h1{
+    margin-left: 30px;
+}
+
+article h3{
+    background-color:deepskyblue;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+article{
+    text-align: center;
+    margin: 50px;
+    border: 50px grey;
+}
+
